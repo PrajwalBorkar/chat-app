@@ -6,9 +6,9 @@
   Chat Application Using Chat Engine<br/>
   <a href="https://chat-applicati0n.netlify.app" target="_blank">Chat App</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+<!-- <div align="center">
+  <img alt="Demo" src="https://chat-applicati0n.netlify.app/" />
+</div> -->
 
 <br/>
 
